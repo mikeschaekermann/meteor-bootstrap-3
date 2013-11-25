@@ -1,7 +1,8 @@
-meteor-bootstrap-3
-==================
-bootstrap 3.x packaged for meteor
+meteor-bootswatch-yeti
+======================
+
+Bootswatch theme Yeti packaged for Meteor
 
 
 ### to install
-mrt add bootstrap-3
+mrt add bootswatch-yeti
