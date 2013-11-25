@@ -1,9 +1,9 @@
 {
-  "name": "bootstrap-3",
-  "description": "bootstrap 3.0.2 packaged for meteor",
-  "homepage": "https://github.com/mangasocial/meteor-bootstrap-3",
-  "author": "Manga Social Team (http://mangasocial.com)",
+  "name": "bootswatch-yeti",
+  "description": "bootswatch theme yeti",
+  "homepage": "https://github.com/mikeschaekermann/meteor-bootswatch-yeti",
+  "author": "Mike Schaekermann",
   "version": "0.3.6",
-  "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+  "git": "https://github.com/mikeschaekermann/meteor-bootswatch-yeti.git",
   "packages": { }
 }
