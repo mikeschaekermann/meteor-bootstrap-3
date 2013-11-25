@@ -1,5 +1,5 @@
-meteor-bootswatch-yeti
-======================
+bootswatch-yeti
+===============
 
 Bootswatch theme Yeti packaged for Meteor
 
