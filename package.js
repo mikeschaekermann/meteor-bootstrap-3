@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides bootstrap 3."
+  summary: "Provides Bootswatch Yeti theme (based on Bootstrap 3)"
 });
 
 Package.on_use(function (api) {
